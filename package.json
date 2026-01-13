@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "A simple CI/CD demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test Passed\" && exit 0",
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
